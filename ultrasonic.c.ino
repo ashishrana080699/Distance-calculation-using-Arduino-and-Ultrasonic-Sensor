@@ -2,7 +2,7 @@
 const int trigPin = 9;
 const int echoPin = 10;
 
-//Defines variables
+//defines variables
 long duration;
 int distance;
 
